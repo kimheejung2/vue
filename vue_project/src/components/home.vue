@@ -4,7 +4,7 @@
       <h1 class="main-image-title mb-5">
         Hello World! <span style="font-size: 50px;">by <span class="masa">masaff08</span></span>
       </h1>
-      <p style="color:gray;">aafffaはじめまして、masa08です。<br>このサイトはmasa08fffの自己紹介サイトです。</p>
+      <p style="color:gray;">aafffaはじめまして、masfffa08です。<br>このサイトはmasa08fffの自己紹介サイトです。</p>
     </div>
   </div>
 </template>
