@@ -2,7 +2,7 @@
   <div>
     <div class="main-image">
       <h1 class="main-image-title mb-5">
-        1Hello World! <span style="font-size: 50px;">by <span class="masa">masa08</span></span>
+        1  2 Hello World! <span style="font-size: 50px;">by <span class="masa">masa08</span></span>
       </h1>
       <p style="color:gray;">はじめまして、masa08です。<br>このサイトはmasa08の自己紹介サイトです。</p>
     </div>
