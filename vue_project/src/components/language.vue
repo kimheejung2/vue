@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="container mt-5 px-5">
-            <h1>LANGUAGES</h1>
+            <h1>LANGUAGESsss</h1>
             <div class="row mt-4">
                 <!-- HTML & CSS -->
                 <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
