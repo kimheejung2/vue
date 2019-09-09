@@ -3,8 +3,8 @@
         <div class="container mt-5 px-5">
             <h1>INTERN</h1>
             <div class="list col-lg-10 my-4 mx-auto">
-                <h2 class="mb-3 pb-3">過去経験</h2>
-                <h3 class="main-intern">開発系</h3>
+                <h2 class="mb-3 pb-3">過去経験ddddd</h2>
+                <h3 class="main-intern">開発系ddddd</h3>
                 <hr>
                 <p class="text-left" style="color:gray;">
                     ・中高生向けにWebデザインのメンター業務をしていました(使用言語：HTML/CSS/JQuery)。<br>
